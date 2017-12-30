@@ -36,7 +36,7 @@
 </ul>
 </details>
   
-<details>
+<details open="open">
 <summary><b>乌镇</b></summary>
 <ul>
   <li><a href="http://www.wuzhen.com.cn/" target="_blank">乌镇官网</a></li>
