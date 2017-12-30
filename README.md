@@ -33,6 +33,7 @@
 <summary><b>绍兴</b></summary>
 <ul>
   <li><a href="http://mp.weixin.qq.com/s/MbdrpZ0jC3crG0zavdFsEA" target="_blank">玩透古镇绍兴</a></li>
+  <li><a href="http://lvyou.baidu.com/shaoxing/jingdian/" target="_blank">绍兴美景</a></li>
 </ul>
 </details>
   
