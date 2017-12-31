@@ -4,6 +4,8 @@
 
 > **人生理想：觅得一知己，吃遍天下美食，看遍天下美景**
 
+<div style="text-align: right;"><a id="show-hide">点击收起</a></div>
+
 ## 国内
 ### 江西
 
